@@ -23,9 +23,10 @@
             "group": "React Native Screens",
             "pages": [
               "essentials/rn-image-video-grid-viewer",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "essentials/react-native-view-image",
+              "essentials/auth-screen-with-otp",
+              "essentials/exam-auth-screen-with-otp",
+                 "essentials/relaxion-onboarding-screen"
             ]
           }
         ]
